@@ -1,0 +1,8 @@
+rootProject.name = 'Workflow Tutorial'
+include ':tutorial-base'
+include ':tutorial-1-complete'
+include ':tutorial-2-complete'
+include ':tutorial-3-complete'
+include ':tutorial-4-complete'
+include ':tutorial-final'
+include ':tutorial-views'
